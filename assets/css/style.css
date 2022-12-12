@@ -1,0 +1,46 @@
+.bg-navbar{
+    background-image: linear-gradient(#C973FF, #AEBAF8);
+}
+
+.image-slider{
+    height: 500px;
+}
+
+.btn-slider{
+    background-image: linear-gradient(#C973FF, #AEBAF8);
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    margin-top: 20%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.bg-caption{
+    background-color: #AEBAF8;
+    opacity: 0.7;
+    border-radius: 20px;
+}
+
+.set-image{
+    width: 350px;
+    height: 250px;
+}
+
+h5{
+    color: #C973FF;
+    font-weight: bold;
+}
+
+.th-warna{
+    background-color: #dab7f0;
+}
+
+.footer{
+    height: 90px;
+    background-color: #dab7f0;
+}
+
+.copyright{
+    padding-top: 25px;
+}
